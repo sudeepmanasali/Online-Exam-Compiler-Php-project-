@@ -1,0 +1,54 @@
+/*================================================================================
+	Item Name: Modern Admin - Clean Bootstrap 4 Dashboard HTML Template
+	Version: 1.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.btn {
+  font-family: 'Oswald', sans-serif;
+  width:50%;
+}
+.btn i {
+  position: relative;
+  top: -2px;
+}
+.btn.text-left {
+  text-align: left;
+}
+.btn-brand {
+  background: #37a6c4;
+  color: #fff;
+}
+.btn-brand:hover {
+  color: #fff;
+  background: #2c849c;
+}
+.btn-dark {
+  background: #272727;
+  color: #fff;
+}
+.btn-dark:hover {
+  color: #fff;
+  background: #2c849c;
+}
+.btn-red {
+  background: #4f5362;
+  color: #fff;
+}
+.btn-red:hover {
+  color: #fff;
+  background: #383b46;
+}
+.btn-alt {
+  background: #f0f0f0;
+  color: #222;
+}
+.btn-alt:hover {
+  color: #fff;
+  background: #2c849c;
+}
